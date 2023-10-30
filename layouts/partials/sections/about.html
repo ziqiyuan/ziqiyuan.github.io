@@ -12,7 +12,9 @@
   <div class="row pt-sm-2 pt-md-4 align-self-center">
     <!-- summary -->
     <!-- takes up full section width if no badges/soft skills are specified -->
-    {{ if or (.softSkills) (.badges) }} <div class="col-sm-6"> {{ else }} <div class="col-sm-12"> {{ end }}
+    <!-- {{ if or (.softSkills) (.badges) }} <div class="col-sm-6"> {{ else }} <div class="col-sm-12"> {{ end }} -->
+
+    <div class="col-sm-7"> 
       <h3 class="p-1">{{ $author.name }}</h3>
       {{ if .designation }}
       <h5 class="p-1">
@@ -51,6 +53,11 @@
       >
       {{ end }}
     </div>
+
+    <div class="col-sm-5">
+      <img src="images/photo.png" alt="Photo">
+    </div>
+
     <!-- soft skills circular-progressbar -->
     <div class="col-sm-6 pt-5 pl-md-4 pl-sm-3 pt-sm-0">
       <div class="row">
@@ -64,5 +71,9 @@
         {{ end }}
       </div>
     </div>
+
+
   </div>
+
+
 </div>

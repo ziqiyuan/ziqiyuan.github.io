@@ -1,6 +1,6 @@
 @mixin nav-item-hover-effect($theme: 'light') {
   color: get-light-color('accent-color') !important;
-  border-bottom: 2px solid get-light-color('accent-color') !important;
+  // border-bottom: 2px solid get-light-color('accent-color') !important;
   background: rgba(get-light-color('accent-color'), 0.1);
   @include transition();
 
