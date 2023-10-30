@@ -3,16 +3,17 @@
   @include transition();
   overflow: hidden;
   background: get-light-color('bg-card');
-
+  border: 1px solid #ae2baf29;
   &:hover,
   &:focus {
     box-shadow: $box-shadow;
-    border: 1px solid get-light-color('bg-primary');
+    // border: 1px solid get-light-color('bg-primary');
+    border: 1px solid get-light-color('accent-color');
     @include transition();
   }
 
   .card-head {
-    height: 172px;
+    height: 180px;
     display: flex;
     overflow: hidden;
   }
@@ -22,7 +23,8 @@
   }
 
   .card-img-top {
-    object-fit: cover;
+    object-fit: contain;
+    // width: 2000px;
     @include transition();
   }
 

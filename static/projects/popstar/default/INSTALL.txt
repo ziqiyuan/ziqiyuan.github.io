@@ -1,0 +1,12 @@
+Install instructions:
+-run 'opam update in the terminal' to update OPAM
+-run 'opam upgrade' after the previous command terminates
+-run 'opam install ANSITerminal odoc ocamlformat-rpc'
+-run opam install js_of_ocaml js_of_ocaml-ppx js_of_ocaml-lwt in terminal to install Js_of_ocaml
+-download the src code
+-run 'dune build' in the terminal
+-run 'make play' command to start the game
+-run 'quit' to exit the game
+
+To run the GUI
+-open _build/default/gui/index.html

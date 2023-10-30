@@ -1,0 +1,1307 @@
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Runner: processes
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Chooser: simple
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration suite_name = "test suite for A2"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/ziqiyuan/Popstar/_build/oUnit-$(suite_name).cache"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration display = "true"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration testdata_dir = "none"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration ci = "false"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/ziqiyuan/Popstar/_build/oUnit-$(suite_name)-$(shard_id).log"
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-21359.eduroam.cornell.edu#01.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-21359.eduroam.cornell.edu#01 started.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-21359.eduroam.cornell.edu#02.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-21359.eduroam.cornell.edu#02 started.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:original fixed goal points, test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:original fixed goal points, test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:1:original fixed goal points.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:original fixed goal points, test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:0:original fixed amount of levels is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:original fixed goal points, test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:1:original fixed goal points, test suite for A2:0:original fixed amount of levels.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:1:original fixed goal points is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:2:one index out of bound - positive, test suite for A2:1:original fixed goal points.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:1:original fixed goal points.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:2:one index out of bound - positive, test suite for A2:1:original fixed goal points.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:2:one index out of bound - positive.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:two indice out of bound -positive , test suite for A2:2:one index out of bound - positive.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:3:two indice out of bound -positive .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:two indice out of bound -positive , test suite for A2:2:one index out of bound - positive.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:2:one index out of bound - positive is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:two indice out of bound -positive , test suite for A2:2:one index out of bound - positive.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:2:one index out of bound - positive.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:3:two indice out of bound -positive , test suite for A2:2:one index out of bound - positive.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:3:two indice out of bound -positive  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:4:one index out of bound - negative, test suite for A2:3:two indice out of bound -positive .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:3:two indice out of bound -positive .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:4:one index out of bound - negative.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:4:one index out of bound - negative, test suite for A2:3:two indice out of bound -positive .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:two indice out of bound - negative , test suite for A2:4:one index out of bound - negative.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:5:two indice out of bound - negative .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:two indice out of bound - negative , test suite for A2:4:one index out of bound - negative.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:4:one index out of bound - negative is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:two indice out of bound - negative , test suite for A2:4:one index out of bound - negative.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:4:one index out of bound - negative.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:5:two indice out of bound - negative  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:5:two indice out of bound - negative , test suite for A2:4:one index out of bound - negative.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:5:two indice out of bound - negative .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:6:one index out of bound - zero, test suite for A2:5:two indice out of bound - negative .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:two indice out of bound - zero , test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:two indice out of bound - zero , test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:7:two indice out of bound - zero .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:two indice out of bound - zero , test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:6:one index out of bound - zero is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:two indice out of bound - zero , test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:7:two indice out of bound - zero  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:7:two indice out of bound - zero , test suite for A2:6:one index out of bound - zero.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:7:two indice out of bound - zero .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:8:only one index present, test suite for A2:7:two indice out of bound - zero .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:empty input, test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:empty input, test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:9:empty input.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:empty input, test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:8:only one index present is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:9:empty input is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:empty input, test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:9:empty input.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:9:empty input, test suite for A2:8:only one index present.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:white space, test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:11:white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:white space, test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:white space, test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:10:more than two digits is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:11:white space is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:white space, test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:11:white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:11:white space, test suite for A2:10:more than two digits.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:random string without white spaces, test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:random string without white spaces, test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:13:random string without white spaces.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:random string without white spaces, test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:12:int expression is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:13:random string without white spaces is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:random string without white spaces, test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:13:random string without white spaces.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:13:random string without white spaces, test suite for A2:12:int expression.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:random symbols with white space, test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:random symbols with white space, test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:15:random symbols with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:random symbols with white space, test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:15:random symbols with white space is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:random symbols with white space, test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:14:random string with white space is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:15:random symbols with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:15:random symbols with white space, test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:16:quit Q capitalized, test suite for A2:14:random string with white space.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:quit game, test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:quit game, test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:17:quit game.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:quit game, test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:16:quit Q capitalized is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:quit game, test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:17:quit game is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:17:quit game, test suite for A2:16:quit Q capitalized.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:17:quit game.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:18:right bottom corner of 3*3, test suite for A2:17:quit game.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:18:right bottom corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:right top corner of 3*3, test suite for A2:18:right bottom corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:19:right top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:right top corner of 3*3, test suite for A2:18:right bottom corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:18:right bottom corner of 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:right top corner of 3*3, test suite for A2:18:right bottom corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:18:right bottom corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:19:right top corner of 3*3, test suite for A2:18:right bottom corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:left top corner of 3*3, test suite for A2:19:right top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:19:right top corner of 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:20:left top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:left top corner of 3*3, test suite for A2:19:right top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:19:right top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:20:left top corner of 3*3, test suite for A2:19:right top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:left bottom corner 3*3, test suite for A2:20:left top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:21:left bottom corner 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:left bottom corner 3*3, test suite for A2:20:left top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:20:left top corner of 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:left bottom corner 3*3, test suite for A2:20:left top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:20:left top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:21:left bottom corner 3*3, test suite for A2:20:left top corner of 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:random valid coordinate 10*10, test suite for A2:21:left bottom corner 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:22:random valid coordinate 10*10.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:random valid coordinate 10*10, test suite for A2:21:left bottom corner 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:21:left bottom corner 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:random valid coordinate 10*10, test suite for A2:21:left bottom corner 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:21:left bottom corner 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:22:random valid coordinate 10*10, test suite for A2:21:left bottom corner 3*3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:random valid coordinate 50*50, test suite for A2:22:random valid coordinate 10*10.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:23:random valid coordinate 50*50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:random valid coordinate 50*50, test suite for A2:22:random valid coordinate 10*10.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:22:random valid coordinate 10*10 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:random valid coordinate 50*50, test suite for A2:22:random valid coordinate 10*10.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:22:random valid coordinate 10*10.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:23:random valid coordinate 50*50, test suite for A2:22:random valid coordinate 10*10.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:left top corner of 2*2, test suite for A2:23:random valid coordinate 50*50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:24:left top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:left top corner of 2*2, test suite for A2:23:random valid coordinate 50*50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:23:random valid coordinate 50*50 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:left top corner of 2*2, test suite for A2:23:random valid coordinate 50*50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:23:random valid coordinate 50*50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:24:left top corner of 2*2, test suite for A2:23:random valid coordinate 50*50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:left bottom corner of 2*2, test suite for A2:24:left top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:25:left bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:left bottom corner of 2*2, test suite for A2:24:left top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:24:left top corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:left bottom corner of 2*2, test suite for A2:24:left top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:24:left top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:25:left bottom corner of 2*2, test suite for A2:24:left top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:right top corner of 2*2, test suite for A2:25:left bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:26:right top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:right top corner of 2*2, test suite for A2:25:left bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:25:left bottom corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:right top corner of 2*2, test suite for A2:25:left bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:25:left bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:26:right top corner of 2*2, test suite for A2:25:left bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:right bottom corner of 2*2, test suite for A2:26:right top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:27:right bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:right bottom corner of 2*2, test suite for A2:26:right top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:26:right top corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:right bottom corner of 2*2, test suite for A2:26:right top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:26:right top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:27:right bottom corner of 2*2, test suite for A2:26:right top corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:start with white spaces parse, test suite for A2:27:right bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:28:start with white spaces parse.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:start with white spaces parse, test suite for A2:27:right bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:27:right bottom corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:start with white spaces parse, test suite for A2:27:right bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:27:right bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:28:start with white spaces parse, test suite for A2:27:right bottom corner of 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:extra blanks in the middle, test suite for A2:28:start with white spaces parse.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:29:extra blanks in the middle.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:extra blanks in the middle, test suite for A2:28:start with white spaces parse.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:28:start with white spaces parse is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:extra blanks in the middle, test suite for A2:28:start with white spaces parse.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:28:start with white spaces parse.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:29:extra blanks in the middle, test suite for A2:28:start with white spaces parse.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:end with blanks, test suite for A2:29:extra blanks in the middle.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:30:end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:end with blanks, test suite for A2:29:extra blanks in the middle.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:29:extra blanks in the middle is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:end with blanks, test suite for A2:29:extra blanks in the middle.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:29:extra blanks in the middle.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:30:end with blanks, test suite for A2:29:extra blanks in the middle.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:start and end with blanks, test suite for A2:30:end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:31:start and end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:start and end with blanks, test suite for A2:30:end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:30:end with blanks is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:start and end with blanks, test suite for A2:30:end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:30:end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:31:start and end with blanks, test suite for A2:30:end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:size-5 current_size, test suite for A2:31:start and end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:32:size-5 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:size-5 current_size, test suite for A2:31:start and end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:31:start and end with blanks is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:size-5 current_size, test suite for A2:31:start and end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:31:start and end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:32:size-5 current_size, test suite for A2:31:start and end with blanks.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:size-2 current_size, test suite for A2:32:size-5 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:33:size-2 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:size-2 current_size, test suite for A2:32:size-5 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:32:size-5 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:size-2 current_size, test suite for A2:32:size-5 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:32:size-5 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:33:size-2 current_size, test suite for A2:32:size-5 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:size-14 current_size, test suite for A2:33:size-2 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:34:size-14 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:size-14 current_size, test suite for A2:33:size-2 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:33:size-2 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:size-14 current_size, test suite for A2:33:size-2 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:33:size-2 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:34:size-14 current_size, test suite for A2:33:size-2 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:size-50 current_size, test suite for A2:34:size-14 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:35:size-50 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:size-50 current_size, test suite for A2:34:size-14 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:34:size-14 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:size-50 current_size, test suite for A2:34:size-14 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:34:size-14 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:35:size-50 current_size, test suite for A2:34:size-14 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:size-20 current_size, test suite for A2:35:size-50 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:36:size-20 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:size-20 current_size, test suite for A2:35:size-50 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:35:size-50 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:size-20 current_size, test suite for A2:35:size-50 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:35:size-50 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:36:size-20 current_size, test suite for A2:35:size-50 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:size-30 current_size, test suite for A2:36:size-20 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:37:size-30 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:size-30 current_size, test suite for A2:36:size-20 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:36:size-20 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:size-30 current_size, test suite for A2:36:size-20 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:36:size-20 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:37:size-30 current_size, test suite for A2:36:size-20 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:size-40 current_size, test suite for A2:37:size-30 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:38:size-40 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:size-40 current_size, test suite for A2:37:size-30 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:37:size-30 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:size-40 current_size, test suite for A2:37:size-30 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:37:size-30 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:38:size-40 current_size, test suite for A2:37:size-30 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:size-5 current_level, test suite for A2:38:size-40 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:39:size-5 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:size-5 current_level, test suite for A2:38:size-40 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:38:size-40 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:size-5 current_level, test suite for A2:38:size-40 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:38:size-40 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:39:size-5 current_level, test suite for A2:38:size-40 current_size.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:size-2 current_level, test suite for A2:39:size-5 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:40:size-2 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:size-2 current_level, test suite for A2:39:size-5 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:39:size-5 current_level is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:size-2 current_level, test suite for A2:39:size-5 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:39:size-5 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:40:size-2 current_level, test suite for A2:39:size-5 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:level 0 for new board of size 2, test suite for A2:40:size-2 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:41:level 0 for new board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:level 0 for new board of size 2, test suite for A2:40:size-2 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:40:size-2 current_level is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:level 0 for new board of size 2, test suite for A2:40:size-2 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:40:size-2 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:41:level 0 for new board of size 2, test suite for A2:40:size-2 current_level.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:level 0 for new board of size 14, test suite for A2:41:level 0 for new board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:42:level 0 for new board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:level 0 for new board of size 14, test suite for A2:41:level 0 for new board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:41:level 0 for new board of size 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:level 0 for new board of size 14, test suite for A2:41:level 0 for new board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:41:level 0 for new board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:42:level 0 for new board of size 14, test suite for A2:41:level 0 for new board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:42:level 0 for new board of size 14 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:43:level 0 for new board of size 20, test suite for A2:42:level 0 for new board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:42:level 0 for new board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:43:level 0 for new board of size 20, test suite for A2:42:level 0 for new board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:43:level 0 for new board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:level 0 for new board of size 30, test suite for A2:43:level 0 for new board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:44:level 0 for new board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:level 0 for new board of size 30, test suite for A2:43:level 0 for new board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:43:level 0 for new board of size 20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:level 0 for new board of size 30, test suite for A2:43:level 0 for new board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:43:level 0 for new board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:44:level 0 for new board of size 30 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:44:level 0 for new board of size 30, test suite for A2:43:level 0 for new board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:44:level 0 for new board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:45:size-5 level 1, test suite for A2:44:level 0 for new board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:size-5 level 2, test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:size-5 level 2, test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:46:size-5 level 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:size-5 level 2, test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:45:size-5 level 1 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:46:size-5 level 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:size-5 level 2, test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:46:size-5 level 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:46:size-5 level 2, test suite for A2:45:size-5 level 1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:48:size-5 level 3, test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:48:size-5 level 3, test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:48:size-5 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:48:size-5 level 3, test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:47:size-5  level 9 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:48:size-5 level 3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:48:size-5 level 3, test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:48:size-5 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:48:size-5 level 3, test suite for A2:47:size-5  level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:50:size-5 level 5, test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:50:size-5 level 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:50:size-5 level 5, test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:50:size-5 level 5, test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:49:size-5 level 4 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:50:size-5 level 5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:50:size-5 level 5, test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:50:size-5 level 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:50:size-5 level 5, test suite for A2:49:size-5 level 4.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:52:size-5 level 7, test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:52:size-5 level 7.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:52:size-5 level 7, test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:52:size-5 level 7, test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:52:size-5 level 7 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:52:size-5 level 7, test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:51:size-5 level 6 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:52:size-5 level 7.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:52:size-5 level 7, test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:53:size-5 level 8, test suite for A2:51:size-5 level 6.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:54:size-5 level 9, test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:54:size-5 level 9, test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:54:size-5 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:54:size-5 level 9, test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:54:size-5 level 9 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:54:size-5 level 9, test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:53:size-5 level 8 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:54:size-5 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:54:size-5 level 9, test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:55:size-14 level 3, test suite for A2:53:size-5 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:56:size-20 level 8, test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:56:size-20 level 8, test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:56:size-20 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:56:size-20 level 8, test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:55:size-14 level 3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:56:size-20 level 8, test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:56:size-20 level 8 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:56:size-20 level 8, test suite for A2:55:size-14 level 3.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:56:size-20 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:57:size-30 level 9, test suite for A2:56:size-20 level 8.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:58:size-40 level 7, test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:58:size-40 level 7, test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:58:size-40 level 7.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:58:size-40 level 7, test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:58:size-40 level 7 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:58:size-40 level 7, test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:57:size-30 level 9 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:58:size-40 level 7.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:58:size-40 level 7, test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:59:size-2 update round 2, test suite for A2:57:size-30 level 9.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:60:size-50 update round 2, test suite for A2:59:size-2 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:59:size-2 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:60:size-50 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:60:size-50 update round 2, test suite for A2:59:size-2 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:59:size-2 update round 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:60:size-50 update round 2, test suite for A2:59:size-2 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:59:size-2 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:60:size-50 update round 2, test suite for A2:59:size-2 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:61:size-5 update round 2, test suite for A2:60:size-50 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:61:size-5 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:61:size-5 update round 2, test suite for A2:60:size-50 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:60:size-50 update round 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:61:size-5 update round 2, test suite for A2:60:size-50 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:60:size-50 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:61:size-5 update round 2, test suite for A2:60:size-50 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:62:initialized board of size 2, test suite for A2:61:size-5 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:62:initialized board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:62:initialized board of size 2, test suite for A2:61:size-5 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:61:size-5 update round 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:62:initialized board of size 2, test suite for A2:61:size-5 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:61:size-5 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:62:initialized board of size 2, test suite for A2:61:size-5 update round 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:63:initialized board of size 5, test suite for A2:62:initialized board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:63:initialized board of size 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:63:initialized board of size 5, test suite for A2:62:initialized board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:62:initialized board of size 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:63:initialized board of size 5, test suite for A2:62:initialized board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:62:initialized board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:63:initialized board of size 5, test suite for A2:62:initialized board of size 2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:64:initialized board of size 14, test suite for A2:63:initialized board of size 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:64:initialized board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:64:initialized board of size 14, test suite for A2:63:initialized board of size 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:63:initialized board of size 5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:64:initialized board of size 14, test suite for A2:63:initialized board of size 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:63:initialized board of size 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:64:initialized board of size 14, test suite for A2:63:initialized board of size 5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:64:initialized board of size 14 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:65:initialized board of size 5', test suite for A2:64:initialized board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:64:initialized board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:65:initialized board of size 5', test suite for A2:64:initialized board of size 14.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:65:initialized board of size 5'.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:66:initialized board of size 20, test suite for A2:65:initialized board of size 5'.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:66:initialized board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:66:initialized board of size 20, test suite for A2:65:initialized board of size 5'.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:65:initialized board of size 5' is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:66:initialized board of size 20, test suite for A2:65:initialized board of size 5'.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:65:initialized board of size 5'.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:66:initialized board of size 20, test suite for A2:65:initialized board of size 5'.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:67:initialized board of size 30, test suite for A2:66:initialized board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:66:initialized board of size 20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:67:initialized board of size 30, test suite for A2:66:initialized board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:66:initialized board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:67:initialized board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:67:initialized board of size 30, test suite for A2:66:initialized board of size 20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:68:initialized board of size 40, test suite for A2:67:initialized board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:68:initialized board of size 40.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:68:initialized board of size 40, test suite for A2:67:initialized board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:67:initialized board of size 30 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:68:initialized board of size 40, test suite for A2:67:initialized board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:67:initialized board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:68:initialized board of size 40, test suite for A2:67:initialized board of size 30.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:69:initialized board of size 50, test suite for A2:68:initialized board of size 40.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:68:initialized board of size 40 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:69:initialized board of size 50, test suite for A2:68:initialized board of size 40.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:68:initialized board of size 40.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:69:initialized board of size 50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:69:initialized board of size 50, test suite for A2:68:initialized board of size 40.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:70:size-14 update round, test suite for A2:69:initialized board of size 50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:70:size-14 update round.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:70:size-14 update round, test suite for A2:69:initialized board of size 50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:69:initialized board of size 50 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:70:size-14 update round, test suite for A2:69:initialized board of size 50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:69:initialized board of size 50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:70:size-14 update round, test suite for A2:69:initialized board of size 50.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:71:live median board, test suite for A2:70:size-14 update round.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:70:size-14 update round is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:71:live median board, test suite for A2:70:size-14 update round.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:70:size-14 update round.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:71:live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:71:live median board, test suite for A2:70:size-14 update round.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:72:dead median board, test suite for A2:71:live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:72:dead median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:72:dead median board, test suite for A2:71:live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:71:live median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:72:dead median board, test suite for A2:71:live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:71:live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:72:dead median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:72:dead median board, test suite for A2:71:live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:72:dead median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:73:live small board, test suite for A2:72:dead median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:74:dead small board, test suite for A2:73:live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:73:live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:74:dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:74:dead small board, test suite for A2:73:live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:73:live small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:74:dead small board, test suite for A2:73:live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:73:live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:74:dead small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:74:dead small board, test suite for A2:73:live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:74:dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:75:live large board, test suite for A2:74:dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:76:dead large board, test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:76:dead large board, test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:76:dead large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:76:dead large board, test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:75:live large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:76:dead large board, test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:76:dead large board, test suite for A2:75:live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:76:dead large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:77:live interface board, test suite for A2:76:dead large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:76:dead large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:77:live interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:77:live interface board, test suite for A2:76:dead large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:78:dead interface board, test suite for A2:77:live interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:78:dead interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:78:dead interface board, test suite for A2:77:live interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:77:live interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:78:dead interface board, test suite for A2:77:live interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:77:live interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:78:dead interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:78:dead interface board, test suite for A2:77:live interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:78:dead interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:79:live negative_1 board, test suite for A2:78:dead interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:80:live negative_n board, test suite for A2:79:live negative_1 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:79:live negative_1 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:80:live negative_n board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:80:live negative_n board, test suite for A2:79:live negative_1 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:79:live negative_1 board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:80:live negative_n board, test suite for A2:79:live negative_1 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:79:live negative_1 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:80:live negative_n board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:80:live negative_n board, test suite for A2:79:live negative_1 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:80:live negative_n board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:81:live left_2 board, test suite for A2:80:live negative_n board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:82:live left_2_up board, test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:82:live left_2_up board, test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:82:live left_2_up board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:82:live left_2_up board, test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:81:live left_2 board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:82:live left_2_up board, test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:82:live left_2_up board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:82:live left_2_up board, test suite for A2:81:live left_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:82:live left_2_up board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:83:live down_2 board, test suite for A2:82:live left_2_up board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:84:live down_2_up, test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:84:live down_2_up, test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:84:live down_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:84:live down_2_up, test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:84:live down_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:84:live down_2_up, test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:83:live down_2 board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:84:live down_2_up, test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:84:live down_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:84:live down_2_up, test suite for A2:83:live down_2 board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:86:live left_5, test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:86:live left_5, test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:86:live left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:86:live left_5, test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:85:live no_change_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:86:live left_5, test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:86:live left_5, test suite for A2:85:live no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:86:live left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:87:live left_5_up, test suite for A2:86:live left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:86:live left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:87:live left_5_up, test suite for A2:86:live left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:88:live down_5, test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:88:live down_5, test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:88:live down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:88:live down_5, test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:87:live left_5_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:88:live down_5, test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:88:live down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:88:live down_5, test suite for A2:87:live left_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:88:live down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:89:live down_5_up, test suite for A2:88:live down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:90:live no_change_5, test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:90:live no_change_5, test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:90:live no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:90:live no_change_5, test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:89:live down_5_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:90:live no_change_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:90:live no_change_5, test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:90:live no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:90:live no_change_5, test suite for A2:89:live down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:92:live left_20_up, test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:92:live left_20_up, test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:92:live left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:92:live left_20_up, test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:91:live left_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:92:live left_20_up, test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:92:live left_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:92:live left_20_up, test suite for A2:91:live left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:92:live left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:93:live down_20, test suite for A2:92:live left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:94:live down_20_up, test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:94:live down_20_up, test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:94:live down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:94:live down_20_up, test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:94:live down_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:94:live down_20_up, test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:93:live down_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:94:live down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:94:live down_20_up, test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:95:live all_2, test suite for A2:93:live down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:95:live all_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:96:live all_2_up, test suite for A2:95:live all_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:96:live all_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:96:live all_2_up, test suite for A2:95:live all_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:95:live all_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:96:live all_2_up, test suite for A2:95:live all_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:95:live all_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:96:live all_2_up, test suite for A2:95:live all_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:97:negative_0, test suite for A2:96:live all_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:97:negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:97:negative_0, test suite for A2:96:live all_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:96:live all_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:97:negative_0, test suite for A2:96:live all_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:96:live all_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:97:negative_0, test suite for A2:96:live all_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:98:count negative on live initialized small board , test suite for A2:97:negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:98:count negative on live initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:98:count negative on live initialized small board , test suite for A2:97:negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:97:negative_0 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:98:count negative on live initialized small board , test suite for A2:97:negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:97:negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:98:count negative on live initialized small board , test suite for A2:97:negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:99:count negative on live initialized median board, test suite for A2:98:count negative on live initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:99:count negative on live initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:99:count negative on live initialized median board, test suite for A2:98:count negative on live initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:98:count negative on live initialized small board  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:99:count negative on live initialized median board, test suite for A2:98:count negative on live initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:98:count negative on live initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:99:count negative on live initialized median board, test suite for A2:98:count negative on live initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:100:count negative on kive initialized large board, test suite for A2:99:count negative on live initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:100:count negative on kive initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:100:count negative on kive initialized large board, test suite for A2:99:count negative on live initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:99:count negative on live initialized median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:100:count negative on kive initialized large board, test suite for A2:99:count negative on live initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:99:count negative on live initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:100:count negative on kive initialized large board, test suite for A2:99:count negative on live initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:101:count negative on dead initialized small board , test suite for A2:100:count negative on kive initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:101:count negative on dead initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:101:count negative on dead initialized small board , test suite for A2:100:count negative on kive initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:100:count negative on kive initialized large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:101:count negative on dead initialized small board , test suite for A2:100:count negative on kive initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:100:count negative on kive initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:101:count negative on dead initialized small board , test suite for A2:100:count negative on kive initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:102:count negative on dead initialized median board, test suite for A2:101:count negative on dead initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:102:count negative on dead initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:102:count negative on dead initialized median board, test suite for A2:101:count negative on dead initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:101:count negative on dead initialized small board  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:102:count negative on dead initialized median board, test suite for A2:101:count negative on dead initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:101:count negative on dead initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:102:count negative on dead initialized median board, test suite for A2:101:count negative on dead initialized small board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:103:count negative on dead initialized large board, test suite for A2:102:count negative on dead initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:102:count negative on dead initialized median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:103:count negative on dead initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:103:count negative on dead initialized large board, test suite for A2:102:count negative on dead initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:102:count negative on dead initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:103:count negative on dead initialized large board, test suite for A2:102:count negative on dead initialized median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:104:count negative on kive initialized max-interface board, test suite for A2:103:count negative on dead initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:104:count negative on kive initialized max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:104:count negative on kive initialized max-interface board, test suite for A2:103:count negative on dead initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:103:count negative on dead initialized large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:104:count negative on kive initialized max-interface board, test suite for A2:103:count negative on dead initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:103:count negative on dead initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:104:count negative on kive initialized max-interface board, test suite for A2:103:count negative on dead initialized large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:105:count negative on dead initialized max-interface board , test suite for A2:104:count negative on kive initialized max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:105:count negative on dead initialized max-interface board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:105:count negative on dead initialized max-interface board , test suite for A2:104:count negative on kive initialized max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:104:count negative on kive initialized max-interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:105:count negative on dead initialized max-interface board , test suite for A2:104:count negative on kive initialized max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:104:count negative on kive initialized max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:105:count negative on dead initialized max-interface board , test suite for A2:104:count negative on kive initialized max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:106:negative_1, test suite for A2:105:count negative on dead initialized max-interface board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:106:negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:106:negative_1, test suite for A2:105:count negative on dead initialized max-interface board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:105:count negative on dead initialized max-interface board  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:106:negative_1, test suite for A2:105:count negative on dead initialized max-interface board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:105:count negative on dead initialized max-interface board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:106:negative_1, test suite for A2:105:count negative on dead initialized max-interface board .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:107:negative_n, test suite for A2:106:negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:107:negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:107:negative_n, test suite for A2:106:negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:106:negative_1 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:107:negative_n, test suite for A2:106:negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:106:negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:107:negative_n, test suite for A2:106:negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:108:count negative on left_2, test suite for A2:107:negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:108:count negative on left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:108:count negative on left_2, test suite for A2:107:negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:107:negative_n is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:108:count negative on left_2, test suite for A2:107:negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:107:negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:108:count negative on left_2, test suite for A2:107:negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:109:count negative on left_2_up, test suite for A2:108:count negative on left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:109:count negative on left_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:109:count negative on left_2_up, test suite for A2:108:count negative on left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:108:count negative on left_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:109:count negative on left_2_up, test suite for A2:108:count negative on left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:108:count negative on left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:109:count negative on left_2_up, test suite for A2:108:count negative on left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:110:count negative on down_2, test suite for A2:109:count negative on left_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:110:count negative on down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:110:count negative on down_2, test suite for A2:109:count negative on left_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:109:count negative on left_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:110:count negative on down_2, test suite for A2:109:count negative on left_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:109:count negative on left_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:110:count negative on down_2, test suite for A2:109:count negative on left_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:111:count negative on down_2_up, test suite for A2:110:count negative on down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:111:count negative on down_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:111:count negative on down_2_up, test suite for A2:110:count negative on down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:110:count negative on down_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:111:count negative on down_2_up, test suite for A2:110:count negative on down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:110:count negative on down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:111:count negative on down_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:111:count negative on down_2_up, test suite for A2:110:count negative on down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:111:count negative on down_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:112:count negative on left_5, test suite for A2:111:count negative on down_2_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:112:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:113:count negative on left_5, test suite for A2:112:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:113:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:113:count negative on left_5, test suite for A2:112:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:112:count negative on left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:113:count negative on left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:113:count negative on left_5, test suite for A2:112:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:112:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:113:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:113:count negative on left_5, test suite for A2:112:count negative on left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:115:count negative on down_5_up, test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:115:count negative on down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:115:count negative on down_5_up, test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:115:count negative on down_5_up, test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:114:counet negative on down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:115:count negative on down_5_up, test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:115:count negative on down_5_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:115:count negative on down_5_up, test suite for A2:114:counet negative on down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:115:count negative on down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:116:count negative on no change, test suite for A2:115:count negative on down_5_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:117:count negative on left_20, test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:117:count negative on left_20, test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:117:count negative on left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:117:count negative on left_20, test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:116:count negative on no change is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:117:count negative on left_20, test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:117:count negative on left_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:117:count negative on left_20, test suite for A2:116:count negative on no change.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:117:count negative on left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:118:count negative on left_20_up, test suite for A2:117:count negative on left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:119:count negative on down_20, test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:119:count negative on down_20, test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:119:count negative on down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:119:count negative on down_20, test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:118:count negative on left_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:119:count negative on down_20, test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:119:count negative on down_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:119:count negative on down_20, test suite for A2:118:count negative on left_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:119:count negative on down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:120:count negative on down_20_up, test suite for A2:119:count negative on down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:121:first column empty 2*2, test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:121:first column empty 2*2, test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:121:first column empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:121:first column empty 2*2, test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:121:first column empty 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:121:first column empty 2*2, test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:120:count negative on down_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:121:first column empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:121:first column empty 2*2, test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:122:bottom row empty 2*2, test suite for A2:120:count negative on down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:123:no change 2*2, test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:123:no change 2*2, test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:123:no change 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:123:no change 2*2, test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:122:bottom row empty 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:123:no change 2*2, test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:123:no change 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:123:no change 2*2, test suite for A2:122:bottom row empty 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:123:no change 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:124:third colum empty 5*5, test suite for A2:123:no change 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:125:blocks fall 5*5, test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:125:blocks fall 5*5, test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:125:blocks fall 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:125:blocks fall 5*5, test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:124:third colum empty 5*5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:125:blocks fall 5*5, test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:125:blocks fall 5*5, test suite for A2:124:third colum empty 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:125:blocks fall 5*5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:126:no change 5*5, test suite for A2:125:blocks fall 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:125:blocks fall 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:126:no change 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:126:no change 5*5, test suite for A2:125:blocks fall 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:127:first two columns empty 20*20, test suite for A2:126:no change 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:127:first two columns empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:127:first two columns empty 20*20, test suite for A2:126:no change 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:126:no change 5*5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:127:first two columns empty 20*20, test suite for A2:126:no change 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:126:no change 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:127:first two columns empty 20*20, test suite for A2:126:no change 5*5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:127:first two columns empty 20*20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:128:bottom rows empty 20*20, test suite for A2:127:first two columns empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:127:first two columns empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:128:bottom rows empty 20*20, test suite for A2:127:first two columns empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:129:no change 20*20, test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:129:no change 20*20, test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:129:no change 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:129:no change 20*20, test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:128:bottom rows empty 20*20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:129:no change 20*20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:129:no change 20*20, test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:129:no change 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:129:no change 20*20, test suite for A2:128:bottom rows empty 20*20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:131:negative 1 on AI, test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:131:negative 1 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:131:negative 1 on AI, test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:131:negative 1 on AI, test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:130:all got eliminated 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:131:negative 1 on AI, test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:131:negative 1 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:131:negative 1 on AI, test suite for A2:130:all got eliminated 2*2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:131:negative 1 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:132:negative n on AI, test suite for A2:131:negative 1 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:133:left_5 up on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:133:left_5 up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:133:left_5 up on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:133:left_5 up on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:133:left_5 up on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:133:left_5 up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:133:left_5 up on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:134:no change 5 on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:134:no change 5 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:134:no change 5 on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:132:negative n on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:134:no change 5 on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:134:no change 5 on AI, test suite for A2:132:negative n on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:135:live_median_board on AI, test suite for A2:134:no change 5 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:135:live_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:135:live_median_board on AI, test suite for A2:134:no change 5 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:134:no change 5 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:135:live_median_board on AI, test suite for A2:134:no change 5 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:134:no change 5 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:135:live_median_board on AI, test suite for A2:134:no change 5 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:136:dead_median_board on AI, test suite for A2:135:live_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:136:dead_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:136:dead_median_board on AI, test suite for A2:135:live_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:135:live_median_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:136:dead_median_board on AI, test suite for A2:135:live_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:135:live_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:136:dead_median_board on AI, test suite for A2:135:live_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:137:live_small_board on AI, test suite for A2:136:dead_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:137:live_small_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:137:live_small_board on AI, test suite for A2:136:dead_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:136:dead_median_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:137:live_small_board on AI, test suite for A2:136:dead_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:136:dead_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:137:live_small_board on AI, test suite for A2:136:dead_median_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:138:dead_small_board, test suite for A2:137:live_small_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:137:live_small_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:138:dead_small_board, test suite for A2:137:live_small_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:137:live_small_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:138:dead_small_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:138:dead_small_board, test suite for A2:137:live_small_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:139:dead_huge_board on AI, test suite for A2:138:dead_small_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:139:dead_huge_board on AI, test suite for A2:138:dead_small_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:138:dead_small_board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:139:dead_huge_board on AI, test suite for A2:138:dead_small_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:138:dead_small_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:139:dead_huge_board on AI, test suite for A2:138:dead_small_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:140:live_huge_board, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:140:live_huge_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:140:live_huge_board, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:140:live_huge_board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:140:live_huge_board, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:140:live_huge_board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:140:live_huge_board, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:141:live_max_interfacte, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:141:live_max_interfacte.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:141:live_max_interfacte, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:139:dead_huge_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:141:live_max_interfacte, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:141:live_max_interfacte, test suite for A2:139:dead_huge_board on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:142:dead_max_interface on AI, test suite for A2:141:live_max_interfacte.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:142:dead_max_interface on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:142:dead_max_interface on AI, test suite for A2:141:live_max_interfacte.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:141:live_max_interfacte is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:142:dead_max_interface on AI, test suite for A2:141:live_max_interfacte.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:141:live_max_interfacte.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:142:dead_max_interface on AI, test suite for A2:141:live_max_interfacte.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:143:negative_0 on AI, test suite for A2:142:dead_max_interface on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:143:negative_0 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:143:negative_0 on AI, test suite for A2:142:dead_max_interface on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:142:dead_max_interface on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:143:negative_0 on AI, test suite for A2:142:dead_max_interface on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:142:dead_max_interface on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:143:negative_0 on AI, test suite for A2:142:dead_max_interface on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:144:down_2 on AI, test suite for A2:143:negative_0 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:144:down_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:144:down_2 on AI, test suite for A2:143:negative_0 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:143:negative_0 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:144:down_2 on AI, test suite for A2:143:negative_0 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:143:negative_0 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:144:down_2 on AI, test suite for A2:143:negative_0 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:145:no_change_2 on AI, test suite for A2:144:down_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:145:no_change_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:145:no_change_2 on AI, test suite for A2:144:down_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:144:down_2 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:145:no_change_2 on AI, test suite for A2:144:down_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:144:down_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:145:no_change_2 on AI, test suite for A2:144:down_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:146:left_20_up on AI, test suite for A2:145:no_change_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:146:left_20_up on AI, test suite for A2:145:no_change_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:145:no_change_2 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:146:left_20_up on AI, test suite for A2:145:no_change_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:145:no_change_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:146:left_20_up on AI, test suite for A2:145:no_change_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:147:down_20_up, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:147:down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:147:down_20_up, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:147:down_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:147:down_20_up, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:147:down_20_up.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:147:down_20_up, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:148:all_2 on AI, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:148:all_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:148:all_2 on AI, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:146:left_20_up on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:148:all_2 on AI, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:148:all_2 on AI, test suite for A2:146:left_20_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:149:all_2_up on AI, test suite for A2:148:all_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:149:all_2_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:149:all_2_up on AI, test suite for A2:148:all_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:148:all_2 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:149:all_2_up on AI, test suite for A2:148:all_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:148:all_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:149:all_2_up on AI, test suite for A2:148:all_2 on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:150:deep copy negative_0, test suite for A2:149:all_2_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:150:deep copy negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:150:deep copy negative_0, test suite for A2:149:all_2_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:149:all_2_up on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:150:deep copy negative_0, test suite for A2:149:all_2_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:149:all_2_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:150:deep copy negative_0, test suite for A2:149:all_2_up on AI.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:151:deep copy negative_1, test suite for A2:150:deep copy negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:151:deep copy negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:151:deep copy negative_1, test suite for A2:150:deep copy negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:150:deep copy negative_0 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:151:deep copy negative_1, test suite for A2:150:deep copy negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:150:deep copy negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:151:deep copy negative_1, test suite for A2:150:deep copy negative_0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:152:deep copy negative_n, test suite for A2:151:deep copy negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:152:deep copy negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:152:deep copy negative_n, test suite for A2:151:deep copy negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:151:deep copy negative_1 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:152:deep copy negative_n, test suite for A2:151:deep copy negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:151:deep copy negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:152:deep copy negative_n, test suite for A2:151:deep copy negative_1.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:153:deep copy left_2, test suite for A2:152:deep copy negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:153:deep copy left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:153:deep copy left_2, test suite for A2:152:deep copy negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:152:deep copy negative_n is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:153:deep copy left_2, test suite for A2:152:deep copy negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:152:deep copy negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:153:deep copy left_2, test suite for A2:152:deep copy negative_n.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:154:deep copy down_2, test suite for A2:153:deep copy left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:154:deep copy down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:154:deep copy down_2, test suite for A2:153:deep copy left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:153:deep copy left_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:154:deep copy down_2, test suite for A2:153:deep copy left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:153:deep copy left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:154:deep copy down_2, test suite for A2:153:deep copy left_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:155:deep copy no_change_2, test suite for A2:154:deep copy down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:155:deep copy no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:155:deep copy no_change_2, test suite for A2:154:deep copy down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:154:deep copy down_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:155:deep copy no_change_2, test suite for A2:154:deep copy down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:154:deep copy down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:155:deep copy no_change_2, test suite for A2:154:deep copy down_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:156:deep copy left_5, test suite for A2:155:deep copy no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:156:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:156:deep copy left_5, test suite for A2:155:deep copy no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:155:deep copy no_change_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:156:deep copy left_5, test suite for A2:155:deep copy no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:155:deep copy no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:156:deep copy left_5, test suite for A2:155:deep copy no_change_2.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:157:deep copy down_5, test suite for A2:156:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:157:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:157:deep copy down_5, test suite for A2:156:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:156:deep copy left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:157:deep copy down_5, test suite for A2:156:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:156:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:157:deep copy down_5, test suite for A2:156:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:158:deep copy no_change_5, test suite for A2:157:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:158:deep copy no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:158:deep copy no_change_5, test suite for A2:157:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:157:deep copy down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:158:deep copy no_change_5, test suite for A2:157:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:157:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:158:deep copy no_change_5, test suite for A2:157:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:159:deep copy left_5, test suite for A2:158:deep copy no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:159:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:159:deep copy left_5, test suite for A2:158:deep copy no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:158:deep copy no_change_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:159:deep copy left_5, test suite for A2:158:deep copy no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:158:deep copy no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:159:deep copy left_5, test suite for A2:158:deep copy no_change_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:160:deep copy down_5, test suite for A2:159:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:160:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:160:deep copy down_5, test suite for A2:159:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:159:deep copy left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:160:deep copy down_5, test suite for A2:159:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:159:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:160:deep copy down_5, test suite for A2:159:deep copy left_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:161:deep copy left_20, test suite for A2:160:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:161:deep copy left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:161:deep copy left_20, test suite for A2:160:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:160:deep copy down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:161:deep copy left_20, test suite for A2:160:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:160:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:161:deep copy left_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:161:deep copy left_20, test suite for A2:160:deep copy down_5.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:161:deep copy left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:162:deep copy down_20, test suite for A2:161:deep copy left_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:163:deep copy live median board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:163:deep copy live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:163:deep copy live median board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:163:deep copy live median board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:163:deep copy live median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:163:deep copy live median board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:163:deep copy live median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:163:deep copy live median board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:164:deep copy live small board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:162:deep copy down_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:164:deep copy live small board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:164:deep copy live small board, test suite for A2:162:deep copy down_20.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:165:deep copy live large board, test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:165:deep copy live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:165:deep copy live large board, test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:165:deep copy live large board, test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:164:deep copy live small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:165:deep copy live large board, test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:165:deep copy live large board, test suite for A2:164:deep copy live small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:166:deep copy live max-interface board, test suite for A2:165:deep copy live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:165:deep copy live large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:166:deep copy live max-interface board, test suite for A2:165:deep copy live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:165:deep copy live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:166:deep copy live max-interface board, test suite for A2:165:deep copy live large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:167:deep copy dead median board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:167:deep copy dead median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:167:deep copy dead median board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:167:deep copy dead median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:167:deep copy dead median board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:167:deep copy dead median board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:167:deep copy dead median board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:168:deep copy dead small board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Start test test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:168:deep copy dead small board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:166:deep copy live max-interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:168:deep copy dead small board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:168:deep copy dead small board, test suite for A2:166:deep copy live max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:169:deep copy dead large board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:169:deep copy dead large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:169:deep copy dead large board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:169:deep copy dead large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:169:deep copy dead large board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:169:deep copy dead large board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:169:deep copy dead large board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: Test test suite for A2:168:deep copy dead small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for A2:170:deep copy dead max-interface board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:170:deep copy dead max-interface board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#02 I: End test test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for A2:170:deep copy dead max-interface board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 2 tests running: test suite for A2:170:deep copy dead max-interface board, test suite for A2:168:deep copy dead small board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Start test test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 1 tests running: test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: Test test suite for A2:170:deep copy dead max-interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 1 tests running: test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#01 I: End test test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 1 tests running: test suite for A2:170:deep copy dead max-interface board.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: 0 tests running: .
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-21359.eduroam.cornell.edu#02 has ended.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-21359.eduroam.cornell.edu#01 has ended.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Run 85 tests with shard dhcp-vl2041-21359.eduroam.cornell.edu#02.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Run 86 tests with shard dhcp-vl2041-21359.eduroam.cornell.edu#01.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-21359.eduroam.cornell.edu#02, 4 times.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-21359.eduroam.cornell.edu#01, 1 times.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: ==============
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Summary:
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:170:deep copy dead max-interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:168:deep copy dead small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:169:deep copy dead large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:166:deep copy live max-interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:167:deep copy dead median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:165:deep copy live large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:164:deep copy live small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:162:deep copy down_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:163:deep copy live median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:161:deep copy left_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:160:deep copy down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:159:deep copy left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:158:deep copy no_change_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:157:deep copy down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:156:deep copy left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:155:deep copy no_change_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:154:deep copy down_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:153:deep copy left_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:152:deep copy negative_n is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:151:deep copy negative_1 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:150:deep copy negative_0 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:149:all_2_up on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:148:all_2 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:146:left_20_up on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:147:down_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:145:no_change_2 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:144:down_2 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:143:negative_0 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:142:dead_max_interface on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:141:live_max_interfacte is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:139:dead_huge_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:140:live_huge_board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:138:dead_small_board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:137:live_small_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:136:dead_median_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:135:live_median_board on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:134:no change 5 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:132:negative n on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:133:left_5 up on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:131:negative 1 on AI is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:130:all got eliminated 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:129:no change 20*20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:128:bottom rows empty 20*20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:127:first two columns empty 20*20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:126:no change 5*5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:125:blocks fall 5*5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:124:third colum empty 5*5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:123:no change 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:122:bottom row empty 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:120:count negative on down_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:121:first column empty 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:119:count negative on down_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:118:count negative on left_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:117:count negative on left_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:116:count negative on no change is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:115:count negative on down_5_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:114:counet negative on down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:113:count negative on left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:112:count negative on left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:111:count negative on down_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:110:count negative on down_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:109:count negative on left_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:108:count negative on left_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:107:negative_n is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:106:negative_1 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:105:count negative on dead initialized max-interface board  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:104:count negative on kive initialized max-interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:103:count negative on dead initialized large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:102:count negative on dead initialized median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:101:count negative on dead initialized small board  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:100:count negative on kive initialized large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:99:count negative on live initialized median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:98:count negative on live initialized small board  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:97:negative_0 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:96:live all_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:95:live all_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:93:live down_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:94:live down_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:92:live left_20_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:91:live left_20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:90:live no_change_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:89:live down_5_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:88:live down_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:87:live left_5_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:86:live left_5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:85:live no_change_2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:84:live down_2_up is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:83:live down_2 board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:82:live left_2_up board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:81:live left_2 board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:80:live negative_n board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:79:live negative_1 board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:78:dead interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:77:live interface board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:76:dead large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:75:live large board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:74:dead small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:73:live small board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:72:dead median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:71:live median board is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:70:size-14 update round is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:69:initialized board of size 50 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:68:initialized board of size 40 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:67:initialized board of size 30 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:66:initialized board of size 20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:65:initialized board of size 5' is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:64:initialized board of size 14 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:63:initialized board of size 5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:62:initialized board of size 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:61:size-5 update round 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:60:size-50 update round 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:59:size-2 update round 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:57:size-30 level 9 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:58:size-40 level 7 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:56:size-20 level 8 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:55:size-14 level 3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:53:size-5 level 8 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:54:size-5 level 9 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:51:size-5 level 6 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:52:size-5 level 7 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:50:size-5 level 5 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:49:size-5 level 4 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:48:size-5 level 3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:47:size-5  level 9 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:46:size-5 level 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:45:size-5 level 1 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:44:level 0 for new board of size 30 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:43:level 0 for new board of size 20 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:42:level 0 for new board of size 14 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:41:level 0 for new board of size 2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:40:size-2 current_level is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:39:size-5 current_level is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:38:size-40 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:37:size-30 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:36:size-20 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:35:size-50 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:34:size-14 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:33:size-2 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:32:size-5 current_size is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:31:start and end with blanks is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:30:end with blanks is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:29:extra blanks in the middle is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:28:start with white spaces parse is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:27:right bottom corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:26:right top corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:25:left bottom corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:24:left top corner of 2*2 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:23:random valid coordinate 50*50 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:22:random valid coordinate 10*10 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:21:left bottom corner 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:20:left top corner of 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:19:right top corner of 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:18:right bottom corner of 3*3 is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:17:quit game is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:16:quit Q capitalized is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:14:random string with white space is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:15:random symbols with white space is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:13:random string without white spaces is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:12:int expression is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:11:white space is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:10:more than two digits is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:9:empty input is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:8:only one index present is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:7:two indice out of bound - zero  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:6:one index out of bound - zero is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:5:two indice out of bound - negative  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:4:one index out of bound - negative is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:3:two indice out of bound -positive  is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:2:one index out of bound - positive is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:1:original fixed goal points is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Test test suite for A2:0:original fixed amount of levels is successful.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Ran: 171 tests in: 0.27 seconds.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Cases: 171.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Tried: 171.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Errors: 0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Failures: 0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Skip: 0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Todo: 0.
+2021-12-13T02:52:06+00:00 dhcp-vl2041-21359.eduroam.cornell.edu#00 I: Timeout: 0.

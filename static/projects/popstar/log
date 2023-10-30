@@ -1,0 +1,135 @@
+# dune build
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/ziqiyuan/Popstar
+# Auto-detected concurrency: 10
+$ /Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlc.opt -config > /var/folders/bh/xcvx427569sbt7_tzpdcn_sw0000gn/T/dune_c8ebc5_output
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; for_host = None
+#  ; fdo_target_exe = None
+#  ; build_dir = "default"
+#  ; toplevel_path =
+#      Some External "/Users/ziqiyuan/.opam/cs3110-2022fa/lib/toplevel"
+#  ; ocaml_bin = External "/Users/ziqiyuan/.opam/cs3110-2022fa/bin"
+#  ; ocaml = Ok External "/Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocaml"
+#  ; ocamlc = External "/Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlc.opt"
+#  ; ocamlopt =
+#      Ok External "/Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlopt.opt"
+#  ; ocamldep =
+#      Ok External "/Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamldep.opt"
+#  ; ocamlmklib =
+#      Ok External "/Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlmklib.opt"
+#  ; env =
+#      map
+#        { "DUNE_OCAML_HARDCODED" : "/Users/ziqiyuan/.opam/cs3110-2022fa/lib"
+#        ; "DUNE_OCAML_STDLIB" :
+#            "/Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml"
+#        ; "DUNE_SOURCEROOT" : "/Users/ziqiyuan/Popstar"
+#        ; "INSIDE_DUNE" : "/Users/ziqiyuan/Popstar/_build/default"
+#        ; "MANPATH" : "/Users/ziqiyuan/Popstar/_build/install/default/bin"
+#        ; "OCAMLFIND_IGNORE_DUPS_IN" :
+#            "/Users/ziqiyuan/Popstar/_build/install/default/lib"
+#        ; "OCAMLPATH" : "/Users/ziqiyuan/Popstar/_build/install/default/lib"
+#        ; "OCAMLTOP_INCLUDE_PATH" :
+#            "/Users/ziqiyuan/Popstar/_build/install/default/lib/toplevel"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; findlib_paths = [ External "/Users/ziqiyuan/.opam/cs3110-2022fa/lib" ]
+#  ; arch_sixtyfour = true
+#  ; natdynlink_supported = true
+#  ; supports_shared_libraries = true
+#  ; ocaml_config =
+#      { version = "4.14.0"
+#      ; standard_library_default =
+#          "/Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml"
+#      ; standard_library = "/Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml"
+#      ; standard_runtime = "the_standard_runtime_variable_was_deleted"
+#      ; ccomp_type = "cc"
+#      ; c_compiler = "cc"
+#      ; ocamlc_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread" ]
+#      ; ocamlc_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; ocamlopt_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread" ]
+#      ; ocamlopt_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; bytecomp_c_compiler =
+#          [ "cc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; bytecomp_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_c_compiler =
+#          [ "cc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; native_c_libraries = [ "-lm" ]
+#      ; native_pack_linker = [ "ld"; "-r"; "-o" ]
+#      ; cc_profile = []
+#      ; architecture = "amd64"
+#      ; model = "default"
+#      ; int_size = 63
+#      ; word_size = 64
+#      ; system = "macosx"
+#      ; asm = [ "cc"; "-c"; "-Wno-trigraphs" ]
+#      ; asm_cfi_supported = true
+#      ; with_frame_pointers = false
+#      ; ext_exe = ""
+#      ; ext_obj = ".o"
+#      ; ext_asm = ".s"
+#      ; ext_lib = ".a"
+#      ; ext_dll = ".so"
+#      ; os_type = "Unix"
+#      ; default_executable_name = "a.out"
+#      ; systhread_supported = true
+#      ; host = "x86_64-apple-darwin20.6.0"
+#      ; target = "x86_64-apple-darwin20.6.0"
+#      ; profiling = false
+#      ; flambda = false
+#      ; spacetime = false
+#      ; safe_string = true
+#      ; exec_magic_number = "Caml1999X031"
+#      ; cmi_magic_number = "Caml1999I031"
+#      ; cmo_magic_number = "Caml1999O031"
+#      ; cma_magic_number = "Caml1999A031"
+#      ; cmx_magic_number = "Caml1999Y031"
+#      ; cmxa_magic_number = "Caml1999Z031"
+#      ; ast_impl_magic_number = "Caml1999M031"
+#      ; ast_intf_magic_number = "Caml1999N031"
+#      ; cmxs_magic_number = "Caml1999D031"
+#      ; cmt_magic_number = "Caml1999T031"
+#      ; natdynlink_supported = true
+#      ; supports_shared_libraries = true
+#      ; windows_unicode = false
+#      }
+#  }
+$ (cd _build/default && .ppx/7b799aed44581cc79b02033532c5f775/ppx.exe -o gui/main.pp.ml --impl gui/main.ml -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/default && /Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamldep.opt -modules -impl gui/main.pp.ml) > _build/default/gui/.main.eobjs/main.pp.ml.d
+$ (cd _build/default && /Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I gui/.main.eobjs/byte -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ANSITerminal -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-compiler/runtime -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-lwt -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/lwt -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/seq -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/yojson -I src/.game.objs/byte -intf-suffix .ml -no-alias-deps -opaque -open Dune__exe -o gui/.main.eobjs/byte/dune__exe__Main.cmo -c -impl gui/main.pp.ml)
+$ (cd _build/default && /Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o gui/main.bc /Users/ziqiyuan/.opam/cs3110-2022fa/lib/yojson/yojson.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml/unix.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ANSITerminal/ANSITerminal.cma src/game.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-compiler/runtime/jsoo_runtime.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml/js_of_ocaml.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/lwt/lwt.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-lwt/js_of_ocaml_lwt.cma gui/.main.eobjs/byte/dune__exe.cmo gui/.main.eobjs/byte/dune__exe__Ui.cmo gui/.main.eobjs/byte/dune__exe__Main.cmo)
+$ (cd _build/default && /Users/ziqiyuan/.opam/cs3110-2022fa/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o gui/main.exe -output-complete-exe /Users/ziqiyuan/.opam/cs3110-2022fa/lib/yojson/yojson.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml/unix.cma -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ANSITerminal/ANSITerminal.cma -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ANSITerminal src/game.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-compiler/runtime/jsoo_runtime.cma -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-compiler/runtime /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml/js_of_ocaml.cma -I /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml /Users/ziqiyuan/.opam/cs3110-2022fa/lib/lwt/lwt.cma /Users/ziqiyuan/.opam/cs3110-2022fa/lib/js_of_ocaml-lwt/js_of_ocaml_lwt.cma gui/.main.eobjs/byte/dune__exe.cmo gui/.main.eobjs/byte/dune__exe__Ui.cmo gui/.main.eobjs/byte/dune__exe__Main.cmo)
+> /var/folders/bh/xcvx427569sbt7_tzpdcn_sw0000gn/T/build_16fa03_dune/camlobj5782af.c:17521:14: warning: a function declaration without a prototype is deprecated in all versions of C and is treated as a zero-parameter prototype in C2x, conflicting with a previous declaration [-Wdeprecated-non-prototype]
+> extern value caml_get_public_method();
+>              ^
+> /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml/caml/mlvalues.h:236:18: note: conflicting prototype is here
+> CAMLextern value caml_get_public_method (value obj, value tag);
+>                  ^
+> /var/folders/bh/xcvx427569sbt7_tzpdcn_sw0000gn/T/build_16fa03_dune/camlobj5782af.c:17703:14: warning: a function declaration without a prototype is deprecated in all versions of C and is treated as a zero-parameter prototype in C2x, conflicting with a previous declaration [-Wdeprecated-non-prototype]
+> extern value caml_set_oo_id();
+>              ^
+> /Users/ziqiyuan/.opam/cs3110-2022fa/lib/ocaml/caml/mlvalues.h:413:18: note: conflicting prototype is here
+> CAMLextern value caml_set_oo_id(value obj);
+>                  ^
+> 2 warnings generated.
+$ (cd _build/default/gui && /Users/ziqiyuan/.opam/cs3110-2022fa/bin/js_of_ocaml --source-map main.bc -o main.js --pretty)

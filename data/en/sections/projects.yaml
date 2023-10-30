@@ -20,7 +20,7 @@ buttons:
 # your projects
 projects:
 - name: Trash Dog
-  logo: /images/sections/projects/kubernetes.png
+  project_image: /project_images/trashdog.png
   url: "https://ece4760.github.io/Projects/Fall2022/tl482_yy389_zy278/index.html"
   # role: Contributor
   # timeline: "March 2018 - Present"
@@ -30,25 +30,30 @@ projects:
   tags: ["ECE", "C"]
 
 - name: 太鼓とテルミンの達人
-  logo: /images/sections/projects/tensorflow.png
+  project_image: /project_images/taiko.png
   url: "https://pages.github.coecis.cornell.edu/ece3140-sp22/yy389-zy278/index.html"
   # role: Developer
   # timeline: "Jun 2018 - Present"
   #url: ""
-  summary: A music game using "drums" and "theremin".
+  summary: A drum + theremin music game.
   tags: ["ECE", "C", "Python"]
+
+
+- name: Popstar
+  game: "yes"
+  project_image: /project_images/popstar.png
+  # role: Nothing
+  # timeline: "Oct 2019 - Dec 2019"
+  url: /projects/popstar/default/gui/index.html
+  summary: Pop the stars.
+  tags: ["CS", "OCaml"]
+
 
 - name: Catari Breakout
   # role: Team Lead
   # timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
+  game: "yes"
+  project_image: /project_images/catari.png
+  url: /projects
   summary: Bounce off cats to break the bricks.
   tags: ["CS","Typescript"]
-
-- name: Popstar
-  logo: /images/sections/projects/no-code.png
-  # role: Nothing
-  # timeline: "Oct 2019 - Dec 2019"
-  url: "https://www.example.com"
-  summary: Pop the stars.
-  tags: ["CS", "OCaml"]

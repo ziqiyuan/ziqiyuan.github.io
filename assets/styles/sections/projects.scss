@@ -1,5 +1,15 @@
 .projects-section {
   .card {
+    background: get-light-color('bg-card');
+    .card-title{
+      // background-color: get-light-color('bg-card');
+      padding: 0.4rem;
+      padding-bottom: 0rem;
+      text-decoration: none;
+      font-weight: bold;
+      // font-size: large;
+    }
+
     .card-header {
       background-color: get-light-color('bg-card');
       padding: 0.7rem;
