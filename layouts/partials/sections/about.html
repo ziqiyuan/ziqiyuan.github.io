@@ -8,17 +8,10 @@
   {{ $author = (index site.Data site.Language.Lang).author }}
 {{ end }}
 
-<style>
-  .img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    height: auto;
-  }
-  </style>
+
 
 <div class="container anchor p-lg-5 about-section" id="{{ $sectionID }}">
+  <div style="height: 10vh"></div>
   <div class="row pt-sm-2 pt-md-4 align-self-center">
     <!-- summary -->
     <!-- takes up full section width if no badges/soft skills are specified -->
@@ -26,12 +19,12 @@
     <div class="col-sm-7"> 
       <h3 class="p-1">{{ $author.name }}</h3>
       {{ if .designation }}
-      <h5 class="p-1">
+      <h2 class="p-1">
         {{ .designation }}
         {{ if .company }}
         {{ i18n "at"}} <a href="{{ .company.url }}" title="{{ .company.name }}" target="_blank" rel="noopener">{{ .company.name }}</a>
         {{ end }}
-      </h5>
+      </h2>
       {{ end }}
       <p class="p-1 text-justify">
         {{ .summary | markdownify }}
@@ -63,8 +56,8 @@
       {{ end }}
     </div>
 
-    <div class="col-sm-5"> 
-      <div class="img">
+    <div class="col-sm-5" style="display: flex; justify-content: center; align-items: center;"> 
+      <div class="img_profile">
         <img src="images/photo.png" alt="Photo">
       </div>
     </div>

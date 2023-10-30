@@ -12,6 +12,20 @@
   }
 }
 
+.btn-light {
+  background-color: #e8d7f0 !important;
+  border-color: #e8d7f0 !important;
+  color: #1d1b1b !important;
+  @include transition();
+
+  &:hover,
+  &:focus {
+    background-color: get-light-color('accent-color') !important;
+    border-color: get-light-color('accent-color') !important;
+    @include transition();
+  }
+}
+
 .btn-info {
   background-color: get-light-color('accent-color') !important;
   color: get-light-color('text-over-accent-color') !important;

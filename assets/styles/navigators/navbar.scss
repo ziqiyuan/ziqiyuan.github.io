@@ -1,7 +1,7 @@
 @mixin nav-item-hover-effect($theme: 'light') {
   color: get-light-color('accent-color') !important;
   // border-bottom: 2px solid get-light-color('accent-color') !important;
-  background: rgba(get-light-color('accent-color'), 0.1);
+  // background: rgba(get-light-color('accent-color'), 0.1);
   @include transition();
 
   @if $theme == 'dark' {
@@ -94,7 +94,8 @@
   }
 
   .navbar-collapse {
-    margin-top: -5px;
+    margin-top: 5px;
+    margin-left: 10px;
     &.show,
     &.collapsing {
       background-color: get-light-color('bg-primary');

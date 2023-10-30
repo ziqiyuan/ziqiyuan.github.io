@@ -6,6 +6,14 @@ h5 {
   color: get-light-color('heading-color');
 }
 
+h5{
+  font-size: 15pt;
+}
+
+h2{
+  font-size: 50pt;
+}
+
 strong {
   color: get-light-color('heading-color') !important;
 }
@@ -13,7 +21,8 @@ strong {
 p {
   color: get-light-color('text-color');
   text-align: justify;
-  text-justify: inter-word;
+  text-justify: inter-word; 
+  font-size: 12pt;
 }
 
 input {

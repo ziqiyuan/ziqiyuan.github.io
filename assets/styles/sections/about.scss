@@ -1,5 +1,13 @@
 @use 'sass:map';
 
+.img_profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: auto;
+}
+
 $progress-bar-colors: (
   'blue': #048dff,
   'yellow': #eebb4d,
