@@ -22,7 +22,7 @@ projects:
 - name: Trash Dog
   project_image: /project_images/trashdog.png
   url: "https://ece4760.github.io/Projects/Fall2022/tl482_yy389_zy278/index.html"
-  # role: Contributor
+  role: "Collaborators: Tiantian Li, Yijin Yin"
   # timeline: "March 2018 - Present"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -32,7 +32,7 @@ projects:
 - name: 太鼓とテルミンの達人
   project_image: /project_images/taiko.png
   url: "https://pages.github.coecis.cornell.edu/ece3140-sp22/yy389-zy278/index.html"
-  # role: Developer
+  role: "Collaborators: Yijin Yin"
   # timeline: "Jun 2018 - Present"
   #url: ""
   summary: A drum + theremin music game.
@@ -42,7 +42,7 @@ projects:
 - name: Popstar
   game: "yes"
   project_image: /project_images/popstar.png
-  # role: Nothing
+  role: "Collaborators: Shenni Liang, Xiangyi Sun"
   # timeline: "Oct 2019 - Dec 2019"
   url: /projects/popstar/default/gui/index.html
   summary: Pop the stars.
@@ -50,10 +50,10 @@ projects:
 
 
 - name: Catari Breakout
-  # role: Team Lead
+  role: "Collaborators: Aditi Vishwanath"
   # timeline: "Jan 2017 - Nov 2017"
-  game: "yes"
+  # game: "yes"
   project_image: /project_images/catari.png
-  url: /projects
+  url: /projects/catari/DemoVideo.mp4
   summary: Bounce off cats to break the bricks.
   tags: ["CS","Typescript"]

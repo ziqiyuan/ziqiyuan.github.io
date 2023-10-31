@@ -1,4 +1,5 @@
 .projects-section {
+
   .card {
     background: get-light-color('bg-card');
     .card-title{
@@ -8,6 +9,11 @@
       text-decoration: none;
       font-weight: bold;
       // font-size: large;
+    }
+
+    .sub-title{
+      font-size: 10pt;
+      margin-left: 5pt;
     }
 
     .card-header {
@@ -22,7 +28,6 @@
       .sub-title {
         color: get-light-color('muted-text-color');
         margin-top: 0.4rem;
-
         span {
           &:nth-child(1) {
             float: left;
