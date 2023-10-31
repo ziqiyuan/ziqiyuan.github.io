@@ -44,7 +44,7 @@ projects:
   project_image: /project_images/popstar.png
   role: "Collaborators: Shenni Liang, Xiangyi Sun"
   # timeline: "Oct 2019 - Dec 2019"
-  url: /projects/popstar/default/gui/index.html
+  url: /projects/popstar/index.html
   summary: Pop the stars.
   tags: ["CS", "OCaml"]
 
