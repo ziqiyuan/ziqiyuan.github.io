@@ -22,7 +22,7 @@ projects:
 - name: Trash Dog
   project_image: /project_images/trashdog.png
   url: "https://ece4760.github.io/Projects/Fall2022/tl482_yy389_zy278/index.html"
-  role: "Collaborators: Tiantian Li, Yijin Yin"
+  role: "Collaborators: Tiantian Li, Yijun Yin"
   # timeline: "March 2018 - Present"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -32,7 +32,7 @@ projects:
 - name: 太鼓とテルミンの達人
   project_image: /project_images/taiko.png
   url: "https://pages.github.coecis.cornell.edu/ece3140-sp22/yy389-zy278/index.html"
-  role: "Collaborators: Yijin Yin"
+  role: "Collaborator: Yijun Yin"
   # timeline: "Jun 2018 - Present"
   #url: ""
   summary: A drum + theremin music game.
@@ -50,7 +50,7 @@ projects:
 
 
 - name: Catari Breakout
-  role: "Collaborators: Aditi Vishwanath"
+  role: "Collaborator: Aditi Vishwanath"
   # timeline: "Jan 2017 - Nov 2017"
   # game: "yes"
   project_image: /project_images/catari.png
