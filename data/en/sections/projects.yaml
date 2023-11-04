@@ -57,3 +57,11 @@ projects:
   url: /projects/catari/DemoVideo.mp4
   summary: Bounce off cats to break the bricks.
   tags: ["CS","Typescript"]
+
+- name: Earth’s Field NMR Sensing
+  role: "Collaborators: Tangia Sun, Jacob Tamor"
+  advisor: "Advisor: Amal El-Ghazaly"
+  project_image: /project_images/nmr.png
+  url: /projects/nmr/poster.png
+  summary: Measure water content of underground crops.
+  tags: ["ECE","Circuit","MATLAB","Python"]
