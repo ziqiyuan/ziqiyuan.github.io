@@ -65,3 +65,10 @@ projects:
   url: /projects/nmr/poster.png
   summary: Measure water content of underground crops.
   tags: ["ECE","Circuit","MATLAB","Python"]
+
+- name: Multilayer Perceptron Accelerator
+  role: "Collaborator: Yijun Yin"
+  project_image: /project_images/asic.png
+  url: /projects/asic
+  summary: Balance an inverted pendulum.
+  tags: ["ECE","Verilog","Python"]
