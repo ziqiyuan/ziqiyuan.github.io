@@ -24,7 +24,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Designed and tested polarization, transmit, and receiver circuitries for the coils of an Earth’s Field NMR system that could be used to estimate the water content of underground crops.
-    - Modified and soldered PCBs for the receiver circuitry to amplify and filter the received signal in the order of a few microvolts at the expected frequency. Implemented a pre-amplifier, a 4th order Butterworth filter, and a final amplifier with an adjustable gain in the receiver.
+    # - Modified and soldered PCBs for the receiver circuitry to amplify and filter the received signal in the order of a few microvolts at the expected frequency. Implemented a pre-amplifier, a 4th order Butterworth filter, and a final amplifier with an adjustable gain in the receiver.
     - Integrated the device with a FRDM-K64F board to control the signal sequence. Configured Python code to send various transmit sequences. Analyzed the received signal with MATLAB.
 
 
@@ -39,7 +39,7 @@ experiences:
     responsibilities:
     - Designed circuit schematics for appliance level metering to measure real-time power consumption of devices through the IoT network. Designed and tested the corresponding PCBs.
     - Assembled metering equipment that read data from current transformers and sent data with a Feather M0 microcontroller. Modified Python and Arduino code for the data transmission.
-    - Designed labs and prepared lab handouts for the intro IoT course, including tutorials for C++ coding, sensor data transmission over LoRaWAN, and data retrieval and analysis with Python. Helped with students' final community engagement projects, such as community food cabinet monitoring and digital agriculture systems.
+    # - Designed labs and prepared lab handouts for the intro IoT course, including tutorials for C++ coding, sensor data transmission over LoRaWAN, and data retrieval and analysis with Python. Helped with students' final community engagement projects, such as community food cabinet monitoring and digital agriculture systems.
 
 
 - company:
