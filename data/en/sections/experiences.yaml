@@ -14,6 +14,7 @@ experiences:
     name: Versatile Electronic Systems Lab
     url: "https://vesl.ece.cornell.edu/"
     location: Cornell University
+    logo: "logos/vesl.png"
     # # company overview
     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
@@ -32,6 +33,7 @@ experiences:
     name: Engaged Internet of Things
     url: "https://iot.mae.cornell.edu/"
     location: Cornell University
+    logo: "logos/IoT.png"
     # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Project Team Member
@@ -46,6 +48,7 @@ experiences:
     name: College of Engineering
     url: "https://www.engineering.cornell.edu/"
     location: Cornell University
+    logo: "logos/engineering.png"
     # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Undegraduate Teaching Assistant
