@@ -4,9 +4,9 @@
 
 {{/* resize the images. don't resize svg image because its not supported */}}
 {{ if $achievementImage }}
-  {{ $achievementImageSm = $achievementImage.Resize "x300" }}
+  {{ $achievementImageSm = $achievementImage }}
   {{ $achievementImageSm =  $achievementImageSm.RelPermalink }}
-  {{ $achievementImageLg = $achievementImage.Resize "x1500" }}
+  {{ $achievementImageLg = $achievementImage }}
   {{ $achievementImageLg =  $achievementImageLg.RelPermalink }}
 {{ end }}
 {{/*  don't use "background-image: url('{{ $achievementImageSm }}');" Otherwise the images won't show in https://themes.gohugo.io/ */}}
@@ -15,7 +15,7 @@
   style="background-image: url('{{ $achievementImageSm }}');"
 >
   <i class="fa-solid fa-xmark hidden"></i>
-  <i class="fa-solid fa-magnifying-glass-plus" id="enlarge-icon"></i>
+  <!-- <i class="fa-solid fa-magnifying-glass-plus" id="enlarge-icon"></i> -->
   <h4 class="title" id="achievement-title">{{ .title }}</h4>
   <div class="caption hidden col-lg-6 text-left" id="caption">
     <h4>{{ .title }}</h4>

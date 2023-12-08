@@ -1,13 +1,13 @@
 .btn-dark {
-  background-color: get-light-color('text-color') !important;
-  border-color: get-light-color('text-color') !important;
+  background-color: get-light-color('accent-color') !important;
+  border-color: get-light-color('accent-color') !important;
   color: get-light-color('text-over-accent-color') !important;
   @include transition();
 
   &:hover,
   &:focus {
-    background-color: get-light-color('accent-color') !important;
-    border-color: get-light-color('accent-color') !important;
+    background-color: get-light-color('hover-over-accent-color') !important;
+    border-color: get-light-color('hover-over-accent-color') !important;
     @include transition();
   }
 }

@@ -15,6 +15,7 @@ experiences:
     url: "https://vesl.ece.cornell.edu/"
     location: Cornell University
     logo: "logos/vesl.png"
+    more: "yes"
     # # company overview
     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:

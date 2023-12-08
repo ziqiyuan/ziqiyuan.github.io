@@ -29,7 +29,7 @@
       <p class="p-1 text-justify">
         {{ .summary | markdownify }}
       </p>
-      <div class="text-container ml-auto">
+      <!-- <div class="text-container ml-auto">
         <ul class="social-link d-flex">
           {{ range .socialLinks }}
           <li>
@@ -43,16 +43,26 @@
           </li>
           {{ end }}
         </ul>
-      </div>
+      </div> -->
       {{ if .resume }}
       <a href="{{ .resume | relURL }}" title="{{ i18n "resume"}}" target="#"
         ><button class="btn btn-dark">{{ i18n "resume"}}</button></a
       >
       {{ end }}
+      {{ if .email }}
+      <a
+      class="btn btn-outline-info btn-sm"
+      style="margin-left: 5px"
+      href="mailto:zy278@cornell.edu"
+      target=text
+      >Email Me</a
+      >
+
+      {{ end }}
       {{ range .resourceLinks }}
       <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"
         ><button class="btn btn-dark">{{ .title }}</button></a
-      >
+      > -->
       {{ end }}
     </div>
 
