@@ -26,7 +26,7 @@ projects:
   # timeline: "March 2018 - Present"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: A trash can that would move towards a detected sound within a frequency range, stop after sensing an obstacle, and open its lid.
+  summary: A trash can that would move towards certain detected sound, stop upon sensing an obstacle, and open its lid.
   tags: ["ECE", "C", "Microcontroller"]
 
 - name: 太鼓とテルミンの達人
@@ -54,7 +54,7 @@ projects:
   # timeline: "Jan 2017 - Nov 2017"
   # game: "yes"
   project_image: /project_images/catari.png
-  url: /projects/catari/index.html
+  url: /projects/catari/DemoVideo.mp4
   summary: Control a platform to bounce off cats and break all the bricks.
   tags: ["CS","Typescript"]
 
@@ -65,6 +65,14 @@ projects:
   url: /projects/nmr/poster.png
   summary: An Earth’s Field Nuclear Magnetic Resonance (NMR) system for estimating the water content of underground crops.
   tags: ["ECE","Circuit","MATLAB","Python"]
+
+- name: Cat Explorer
+  role: "Collaborator: Aditi Vishwanath"
+  game: "yes"
+  project_image: /project_images/catexplorer.png
+  url: /projects/catexplorer/index.html
+  summary: Move around the cat to explore and shape the terrain.
+  tags: ["CS","Typescript"]
 
 - name: Multilayer Perceptron Accelerator
   role: "Collaborator: Yijun Yin"
