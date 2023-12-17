@@ -54,7 +54,7 @@ projects:
   # timeline: "Jan 2017 - Nov 2017"
   # game: "yes"
   project_image: /project_images/catari.png
-  url: /projects/catari/DemoVideo.mp4
+  url: /projects/catari/index.html
   summary: Control a platform to bounce off cats and break all the bricks.
   tags: ["CS","Typescript"]
 
