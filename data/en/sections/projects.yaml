@@ -77,6 +77,6 @@ projects:
 - name: Multilayer Perceptron Accelerator
   role: "Collaborator: Yijun Yin"
   project_image: /project_images/asic.png
-  url: /projects/asic
+  # url: /projects/asic
   summary: An accelerator for balancing an inverted pendulum from given parameters.
   tags: ["ECE","Verilog","Python"]
