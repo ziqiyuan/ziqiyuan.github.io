@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-58Q5HLCVRC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-58Q5HLCVRC');
+</script>
     <title>{{ .Page.Title }}</title>
     <!------ ADD COMMON HEADERS -------->
     {{- partial "header.html" . -}}

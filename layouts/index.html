@@ -6,6 +6,15 @@
 </style>
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-58Q5HLCVRC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-58Q5HLCVRC');
+</script>
   <title>Ziqi Yuan</title>
   {{ $siteDescription := .Site.Params.description }}
   {{ if (index .Site.Data .Site.Language.Lang).site }}
