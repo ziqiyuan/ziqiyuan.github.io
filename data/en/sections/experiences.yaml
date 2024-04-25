@@ -20,7 +20,7 @@ experiences:
     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
   - designation: Undergraduate Research Assistant
-    start: June 2022
+    start: Jun 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: May 2023
     # give some points about what was your responsibilities at the company.
@@ -38,7 +38,8 @@ experiences:
     # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Project Team Member
-    start: Sept 2021
+    start: Sep 2021
+    end: Dec 2023
     responsibilities:
     - Designed circuit schematics for appliance level metering to measure real-time power consumption of devices through the IoT network. Designed and tested the corresponding PCBs.
     - Assembled metering equipment that read data from current transformers and sent data with a Feather M0 microcontroller. Modified Python and Arduino code for the data transmission.
@@ -54,6 +55,7 @@ experiences:
   positions:
   - designation: Undegraduate Teaching Assistant
     start: Jan 2022
+    end: Dec 2023
     responsibilities:
     - CS 6230 Advanced Topics in Parallel Computing (Fall 2023)
     - ECE 3150 Introduction to Microelectronics (Spring 2023)
