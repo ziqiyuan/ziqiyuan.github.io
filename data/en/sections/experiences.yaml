@@ -10,6 +10,38 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Brains in Silicon
+    url: "https://web.stanford.edu/group/brainsinsilicon/"
+    location: Stanford University
+    logo: "logos/brains.png"
+  positions:
+  - designation: Research Assistant
+    start: Sep 2024
+
+- company:
+    name: Stanford Electrical Engineering
+    url: "https://ee.stanford.edu/"
+    location: Stanford University
+    logo: "logos/stanford.png"
+  positions:
+  - designation: Teaching Assistant
+    start: Sep 2024
+    responsibilities:
+    - EE 214A Fundamentals of Analog Integrated Circuit Design
+
+- company:
+    name: Qorvo
+    url: "https://www.qorvo.com/"
+    location: Greensboro, NC
+    logo: "logos/qorvo.png"
+  positions:
+  - designation: Design Engineering Intern
+    start: May 2024
+    end: Aug 2024
+    responsibilities:
+
 - company:
     name: Versatile Electronic Systems Lab
     url: "https://vesl.ece.cornell.edu/"
@@ -19,7 +51,7 @@ experiences:
     # # company overview
     # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Undergraduate Research Assistant
+  - designation: Research Assistant
     start: Jun 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: May 2023
@@ -53,7 +85,7 @@ experiences:
     logo: "logos/engineering.png"
     # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Undegraduate Teaching Assistant
+  - designation: Teaching Assistant
     start: Jan 2022
     end: Dec 2023
     responsibilities:
