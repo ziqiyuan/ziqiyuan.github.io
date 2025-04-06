@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ziqi Yuan </title>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <div class="nav-links">
+                <a href="#home" class="active">Home</a>
+                <a href="#experiences">Experiences</a>
+                <a href="#projects">Projects</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero">
+                <div class="hero-content">
+                    <h1>Ziqi Yuan</h1>
+                    <p>Hi! I am a first-year Master's student studying Electrical Engineering at Stanford University. I received my Bachelor's degree in Electrical and Computer Engineering & Computer Science from Cornell University.</p>
+                    <p>I am interested in analog/mixed-signal IC design and its applications. In my free time, I like to travel and play sports. I am always exploring and trying out new things!</p>
+                    <a href="mailto:ziqiyuan@stanford.edu" class="email-btn">Email Me</a>
+                </div>
+                <div class="hero-image">
+                    <img src="images/profile.png" alt="Ziqi Yuan">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experiences Section -->
+    <section id="experiences" class="experiences">
+        <div class="container">
+            <h2>Experiences</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3>Brains in Silicon</h3>
+                        <h4>Research Assistant</h4>
+                        <div class="timeline-date">Sep 2024 - Dec 2024, Stanford University</div>
+                    </div>
+                    <div class="timeline-logo">
+                        <img src="images/logos/brains-in-silicon.png" alt="Brains in Silicon">
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3>Stanford Electrical Engineering</h3>
+                        <h4>Teaching Assistant</h4>
+                        <div class="timeline-date">Sep 2024 - Present, Stanford University</div>
+                        <ul>
+                            <li>EE 214A Fundamentals of Analog Integrated Circuit Design</li>
+                            <li>EE 272 Design Projects in VLSI Systems I</li>
+                        </ul>
+                    </div>
+                    <div class="timeline-logo">
+                        <img src="images/logos/stanford.png" alt="Stanford Electrical Engineering">
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3>Qorvo</h3>
+                        <h4>Design Engineering Intern</h4>
+                        <div class="timeline-date">May 2024 - Aug 2024, Greensboro, NC</div>
+                    </div>
+                    <div class="timeline-logo">
+                        <img src="images/logos/qorvo.png" alt="Qorvo">
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3>Versatile Electronic Systems Lab</h3>
+                        <h4>Research Assistant</h4>
+                        <div class="timeline-date">Jun 2022 - May 2023, Cornell University</div>
+                        <a href="#projects" class="email-btn">Read more under Projects Section</a>
+
+                    </div>
+                    <div class="timeline-logo">
+                        <img src="images/logos/vesl.png" alt="Versatile Electronic Systems Lab">
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3>Engaged Internet of Things</h3>
+                        <h4>Project Team Member</h4>
+                        <div class="timeline-date">Sep 2021 - Dec 2023, Cornell University</div>
+                    </div>
+                    <div class="timeline-logo">
+                        <img src="images/logos/IoT2.png" alt="IoT">
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <h3>Cornell Engineering</h3>
+                        <h4>Teaching Assistant</h4>
+                        <div class="timeline-date">Jan 2022 - Dec 2023, Cornell University</div>
+                        <ul>
+                            <li>CS 6230 Advanced Topics in Parallel Computing (Fall 2023)</li>
+                            <li>ECE 3150 Introduction to Microelectronics (Spring 2023)</li>
+                            <li>MAE 4220 Introduction to Internet of Things (Spring 2023)</li>
+                            <li>CS 3110 Data Structures and Functional Programming (Fall 2022)</li>
+                            <li>ECE 2300 Digital Logic and Computer Organization (Spring 2022)</li>
+                        </ul>
+                    </div>
+                    <div class="timeline-logo">
+                        <img src="images/logos/cornell.png" alt="Cornell">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="ece">ECE</button>
+                <button class="filter-btn" data-filter="cs">CS</button>
+                <button class="filter-btn" data-filter="other">CEE</button>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card" data-category="ece">
+                    <div class="project-content">
+                        <h3 class="project-title">Trash Dog</h3>
+                        <div class="project-collaborators">Collaborators: Tiantian Li, Yijun Yin</div>
+                        <div class="project-image">
+                            <img src="images/projects/trashdog.png" alt="Trash Dog">
+                        </div>
+                        <p class="project-description">A trash can that would move towards certain detected sound, stop upon sensing an obstacle, and open its lid.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                                <span class="project-tag">ECE</span>
+                                <span class="project-tag">C</span>
+                                <span class="project-tag">Microcontroller</span>
+                            </div>
+                            <div class="project-link">
+                                <a href="https://ece4760.github.io/Projects/Fall2022/tl482_yy389_zy278/index.html">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="ece">
+                    <div class="project-content">
+                        <h3 class="project-title">太鼓とテルミンの達人</h3>
+                        <div class="project-collaborators">Collaborator: Yijun Yin</div>
+                        <div class="project-image">
+                            <img src="images/projects/taiko.png" alt="Theremin">
+                        </div>
+                        <p class="project-description">A drum and theremin music game using touch and distance sensors.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                                <span class="project-tag">ECE</span>
+                                <span class="project-tag">C</span>
+                                <span class="project-tag">Python</span>
+                                <span class="project-tag">Microcontroller</span>
+                            </div>
+                            <div class="project-link">
+                                <a href="https://pages.github.coecis.cornell.edu/ece3140-sp22/yy389-zy278/index.html">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="project-card" data-category="ece">
+                    <div class="project-content">
+                        <h3 class="project-title">Multilayer Perceptron Accelerator</h3>
+                        <div class="project-collaborators">Collaborator: Yijun Yin</div>
+                        <div class="project-image">
+                            <img src="images/projects/asic.png" alt="Asic">
+                        </div>
+                        <p class="project-description">An accelerator for balancing an inverted pendulum from given parameters.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                              <span class="project-tag">ECE</span>
+                              <span class="project-tag">Verilog</span>
+                              <span class="project-tag">Python</span>
+                            </div>
+                            <!-- <div class="project-link">
+                              <a href="#">Read More</a>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="ece">
+                    <div class="project-content">
+                        <h3 class="project-title">Radio Box</h3>
+                        <div class="project-collaborators">Collaborator: Xin Wei</div>
+                        <div class="project-image">
+                            <img src="images/projects/radio.jpg" alt="Radio">
+                        </div>
+                        <p class="project-description">A radio receiver made from FR-4 and copper tape.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                              <span class="project-tag">ECE</span>
+                              <span class="project-tag">Circuit</span>
+                            </div>
+                            <div class="project-link">
+                              <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="other">
+                    <div class="project-content">
+                        <h3 class="project-title">New York Pavilion</h3>
+                        <div class="project-collaborators">Collaborator: Leo Li</div>
+                        <div class="project-image">
+                            <img src="images/projects/pavilion.png" alt="Pavilion">
+                        </div>
+                        <p class="project-description">A modern, energy-efficient hub blending aesthetics with sustainability.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                              <span class="project-tag">CEE</span>
+                              <span class="project-tag">Revit</span>
+                            </div>
+                            <div class="project-link">
+                              <a href="/projects/pavilion/poster.pdf">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="ece">
+                    <div class="project-content">
+                        <h3 class="project-title">Earth's Field NMR Sensing</h3>
+                        <div class="project-collaborators">Collaborators: Tangla Sun, Jacob Tamor</div>
+                        <div class="project-collaborators">Advisor: Amal El-Ghazaly</div>
+                        <div class="project-image">
+                            <img src="images/projects/nmr.png" alt="Earth's Field NMR Sensing">
+                        </div>
+                        <p class="project-description">An Earth’s Field Nuclear Magnetic Resonance (NMR) system for estimating the water content of underground crops.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                                <span class="project-tag">ECE</span>
+                                <span class="project-tag">Circuit</span>
+                                <span class="project-tag">MATLAB</span>
+                                <span class="project-tag">Python</span>
+                            </div>
+                            <div class="project-link">
+                                <a href="/projects/nmr/poster.png">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="cs">
+                    <div class="project-content">
+                        <h3 class="project-title">Cat Explorer</h3>
+                        <div class="project-collaborators">Collaborator: Aditi Vishwanath</div>
+                        <div class="project-image">
+                            <img src="images/projects/cat-explorer.png" alt="Cat Explorer">
+                        </div>
+                        <p class="project-description">Move around the cat to explore and shape the terrain.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                              <span class="project-tag">CS</span>
+                              <span class="project-tag">Typescript</span>
+                            </div>
+                            <div class="project-link">
+                              <a href="/projects/catexplorer/index.html">Play now!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="cs">
+                    <div class="project-content">
+                        <h3 class="project-title">Popstar</h3>
+                        <div class="project-collaborators">Collaborators: Shenni Liang, Xiangyi Sun</div>
+                        <div class="project-image">
+                            <img src="images/projects/popstar.png" alt="Popstar">
+                        </div>
+                        <p class="project-description">Pop the stars! Game levels and theme selection features included.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                                <span class="project-tag">CS</span>
+                                <span class="project-tag">OCaml</span>
+                            </div>
+                            <div class="project-link">
+                                <a href="/projects/popstar/index.html">Play now!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card" data-category="cs">
+                    <div class="project-content">
+                        <h3 class="project-title">Catari Breakout</h3>
+                        <div class="project-collaborators">Collaborator: Aditi Vishwanath</div>
+                        <div class="project-image">
+                            <img src="images/projects/catari.png" alt="Catari Breakout">
+                        </div>
+                        <p class="project-description">Control a platform to bounce off cats and break all the bricks.</p>
+                        <div class="project-footer">
+                            <div class="project-tags">
+                                <span class="project-tag">CS</span>
+                                <span class="project-tag">Typescript</span>
+                            </div>
+                            <div class="project-link">
+                                <a href="/projects/catari/DemoVideo.mp4">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <div style="height: 100px;"></div>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
