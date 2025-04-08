@@ -71,7 +71,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-bottom: 60px;
     display: flex;
     align-items: center;
@@ -231,7 +231,8 @@ nav {
 
 .projects-grid {
     column-count: 3;
-    column-gap: 30px;
+    column-gap: 15px;
+    margin: 0 100px;
 }
 
 
@@ -255,7 +256,7 @@ nav {
     border-radius: 5px;
     overflow: hidden;
     grid-auto-rows: min-content;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 
 .project-card:hover {
@@ -265,7 +266,7 @@ nav {
 }
 
 .project-image {
-    height: 200px;
+    height: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -288,7 +289,7 @@ nav {
 }
 
 .project-title {
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 0px;
 }
 
@@ -316,7 +317,7 @@ nav {
 .project-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
